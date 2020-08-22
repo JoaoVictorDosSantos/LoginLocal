@@ -11,6 +11,8 @@
 
     <string name="key_usuario">USUARIO</string>
     <string name="key_senha">SENHA</string>
+    <string name="key_lembrar">LEMBRAR</string>
+    <string name="key_usuarios_db">USERS</string>
 
     <string name="user_default">santos.joao@aluno.ifsp.edu.br</string>
     <string name="passwd_default">3001695</string>
