@@ -14,6 +14,9 @@
     <string name="key_lembrar">LEMBRAR</string>
     <string name="key_usuarios_db">USERS</string>
 
+    <string name="file_preferences">loginlocal.preferencias</string>
+    <string name="file_usuario">loginlocal.usuarios</string>
+
     <string name="user_default">santos.joao@aluno.ifsp.edu.br</string>
     <string name="passwd_default">3001695</string>
 
@@ -21,5 +24,9 @@
     <string name="erro_login_msg">Erro no login</string>
     <string name="erro_entrada_msg">Informe usuário e senha.</string>
     <string name="lembrar_login">Lembrar informações de login</string>
+    <string name="confirme_senha">Confirme a senha</string>
+    <string name="salvar">Salvar</string>
+    <string name="erro_confirma_senha">Senha e confirmação não conferem.</string>
+    <string name="erro_recupera_lista">Erro ao recuperar lista de usuários cadastrados.</string>
 
 </resources>

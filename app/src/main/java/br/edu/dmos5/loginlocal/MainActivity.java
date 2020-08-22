@@ -104,6 +104,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             abrirBoasVindas();
             return;
         }
+
+        if(view == novoUsuarioTextView){
+            Intent in = new Intent(this, NovoUsuarioActivity.class);
+            startActivity(in);
+            return;
+        }
     }
 
     private void abrirBoasVindas() {
